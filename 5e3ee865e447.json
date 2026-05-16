@@ -1,0 +1,203 @@
+{
+  "name": "4r3tgrege",
+  "game_version": null,
+  "created_by": "gabiluis95-cloud",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "Download-103-3-1-2-1778207631\\BaseLib.dll",
+        "Download-103-3-1-2-1778207631\\BaseLib.json",
+        "Download-103-3-1-2-1778207631\\BaseLib.pck"
+      ],
+      "folder_name": "Download-103-3-1-2-1778207631",
+      "mod_id": "BaseLib",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
+      "bundle_sha256": "9efab5bcb55dcad789aee7370dd8e0885ea033b0fbb558080b70831820487c7b"
+    },
+    {
+      "name": "Civilight Eterna as The Defect",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "c28bd93ef194cd79a100928caf39698572b0c8a2cfcc360920d39bc3eec258f5",
+      "files": [
+        "CEdefect\\CEdefect.dll",
+        "CEdefect\\CEdefect.json",
+        "CEdefect\\CEdefect.pck"
+      ],
+      "folder_name": "CEdefect",
+      "mod_id": "CEdefect",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Civilight_Eterna_as_The_Defect_v1.0.0.zip",
+      "bundle_sha256": "bdf71f8a297b47b29d95d6857d5fc8d542db01e11b9e355824afd6c0ae2211e1"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.1.8.beta",
+      "source": null,
+      "hash": "0fbe662a903a7ba21d562eb1bbee2b61d1faf16b34fd7cc56cb7038e96b21041",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.8.beta.zip",
+      "bundle_sha256": "c7afdd4fc6336d1f92df53d1d2121c5df3ee564a28f87f54aaa1a5842bb01a52"
+    },
+    {
+      "name": "Kaltsit Necrobinder",
+      "version": "1.1.4",
+      "source": null,
+      "hash": "69b264d6e3b1da9bd0ce346256e42e7760de6fbcf4796a2e54c65b00a81b6db2",
+      "files": [
+        "KaltsitNecrobinder-221-1-1-4-1778158813\\KaltsitNecrobinder.dll",
+        "KaltsitNecrobinder-221-1-1-4-1778158813\\KaltsitNecrobinder.json",
+        "KaltsitNecrobinder-221-1-1-4-1778158813\\KaltsitNecrobinder.pck"
+      ],
+      "folder_name": "KaltsitNecrobinder-221-1-1-4-1778158813",
+      "mod_id": "KaltsitNecrobinder",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Kaltsit_Necrobinder_v1.1.4.zip",
+      "bundle_sha256": "177a1d5e82ec656ee99d5a77d1c17b13d1180d05c02e32acfa3f9e1a783f1673"
+    },
+    {
+      "name": "Limbus Core",
+      "version": "v1.0.9",
+      "source": null,
+      "hash": "c30ddd23bdc64cb8b41541d54b77c029a6c144d571cd7a0a48373dceb23087ea",
+      "files": [
+        "LimbusCore\\LimbusCore.dll",
+        "LimbusCore\\LimbusCore.json",
+        "LimbusCore\\LimbusCore.pck"
+      ],
+      "folder_name": "LimbusCore",
+      "mod_id": "LimbusCore",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Limbus_Core_v1.0.9.zip",
+      "bundle_sha256": "944abefd36b41937d7c72f2678690e38e4759addd3d3ede1eadde09854bdbddf"
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.2.10.beta",
+      "source": null,
+      "hash": "a05cde2193e2f290e8f232e08ab97bc713d3a4ffa2c9e53de710da77b0fb6cf8",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.2.10.beta.zip",
+      "bundle_sha256": "16c2e6ab546110884dd611bdfe89ba88588881a8b98ead974844da70571fa96d"
+    },
+    {
+      "name": "SK",
+      "version": "1.0",
+      "source": null,
+      "hash": "5e1867d203bb010d2134f7921c3e7bff3d71d97a8a8e1dae51aa506b05fc671b",
+      "files": [
+        "SK\\SK.dll",
+        "SK\\SK.json",
+        "SK\\SK.pck"
+      ],
+      "folder_name": "SK",
+      "mod_id": "SK",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/SK_v1.0.zip",
+      "bundle_sha256": "3ea66eee66ac5da366e2994d19073d2f83e2e7e73c714916b3dc8ec5d225ec73"
+    },
+    {
+      "name": "StampTheSpire2",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "3c74f00eb052efc4e1221e355e2da0dbde08c6626ab0c3dcecbac9ec21d64687",
+      "files": [
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\mod_manifest.json",
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\StampTheSpire2.dll",
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\stamp_img\\Speaki.webp",
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\System.Drawing.Common.dll",
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\System.Private.Windows.Core.dll",
+        "StampTheSpire2 V0.1.4-598-0-1-4-1776625253\\System.Private.Windows.GdiPlus.dll"
+      ],
+      "folder_name": "StampTheSpire2 V0.1.4-598-0-1-4-1776625253",
+      "mod_id": "StampTheSpire2",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/StampTheSpire2_v0.1.0.zip",
+      "bundle_sha256": "0dc3011f66f9d29db1721ce82970e92b3391772613295a003ff465bc4b60b405"
+    },
+    {
+      "name": "The Immortal（藤原妹红）",
+      "version": "v1.0.2",
+      "source": null,
+      "hash": "9b9a3530d6ef3eab3337e31c1bad9b208c4571a204dfd009b72a653d10e6e9ff",
+      "files": [
+        "MokouMod\\MokouMod.dll",
+        "MokouMod\\MokouMod.json",
+        "MokouMod\\MokouMod.pck",
+        "MokouMod\\MokouMod.pdb"
+      ],
+      "folder_name": "MokouMod",
+      "mod_id": "MokouMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/The_Immortal_______v1.0.2.zip",
+      "bundle_sha256": "181d39273a9d23f7496254a3d3fa4bc06d8194db449b4bb23794fbaa638ae73b"
+    },
+    {
+      "name": "The Index Nursefather Yi Sang",
+      "version": "v1.0.8",
+      "source": null,
+      "hash": "5b3338e0d0247dd6ebc331f6fec11f8c62a11d6701f749712fdb831982412d3c",
+      "files": [
+        "RienSang\\RienSang.dll",
+        "RienSang\\RienSang.json",
+        "RienSang\\RienSang.pck"
+      ],
+      "folder_name": "RienSang",
+      "mod_id": "RienSang",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/The_Index_Nursefather_Yi_Sang_v1.0.8.zip",
+      "bundle_sha256": "3bcbf68b3339616c0f154d108f8cc4319751aa6f4a02b3345f24e91ef0e6e7d1"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "mod_manifest.json"
+      ],
+      "folder_name": "mod_manifest",
+      "mod_id": "UnlockAllMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0.zip",
+      "bundle_sha256": "37203b25c16157d32e3ca6eb9aba818dd1844802fe5d63bc90163c274e861796"
+    },
+    {
+      "name": "UnlockAllMod",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "946e0787692770ea2165ed9efbf558940871fa94af2885ee03842a20f5edffe4",
+      "files": [
+        "UnlockAllMod.dll",
+        "UnlockAllMod.pck"
+      ],
+      "folder_name": "UnlockAllMod",
+      "mod_id": "UnlockAllMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/gabiluis95-cloud/sts2mm-profiles/releases/download/bundles/UnlockAllMod_v0.1.0.zip",
+      "bundle_sha256": "2aefcb4d283f4d0dc40970dc4fd50e56cf5e20626b79c372942178027335732e"
+    }
+  ],
+  "created_at": "2026-05-11T21:24:17.152853100Z",
+  "updated_at": "2026-05-16T00:08:51.759901100Z",
+  "public": false
+}
